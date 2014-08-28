@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TaskTest1</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="str_mainact_text">MainActivity</string>
+    <string name="str_mainact_btn">open second Activity</string>
+    <string name="str_secact_text">SecondActivity</string>
+    <string name="str_secact_btn">open ThirdActivity</string>
+    <string name="str_thirdact_text">ThirdActivity</string>
+    <string name="str_thirdact_btn">open FourthActivity</string>
+    <string name="str_fourthact_text">FourthActivity</string>
+    <string name="str_fourthact_btn">open SecondActivity</string>
+</resources>
